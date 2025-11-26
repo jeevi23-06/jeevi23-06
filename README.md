@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeevitha ES</h1>
-<h3 align="center">A passionate Software Developer and Frontend Developer pursuing Btech in Computer Science and Engineering</h3>
+<h3 align="center">Software Developer| Frontend Developer| Passionate in coding and solving real world problems </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeevi23-06&label=Profile%20views&color=0e75b6&style=flat" alt="jeevi23-06" /> </p>
+
+
 
 - 🔭 I’m currently working on **building on core skills in the field of AIML and full stack**
 
